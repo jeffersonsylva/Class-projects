@@ -1,0 +1,11 @@
+add 0 world
+add 0 Hello
+add 2 here
+set 2 Spring
+add 3 is
+add 4 here
+add 1 Love
+set 5 gone!
+remove 1
+quit
+

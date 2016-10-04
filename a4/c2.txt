@@ -1,0 +1,6 @@
+add 0 one
+add 1 two
+adx 2 three
+add 3 four
+add 1 middle
+quit
